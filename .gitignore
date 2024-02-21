@@ -1,0 +1,5 @@
+# Ruby LSP cache folder
+.ruby-lsp/
+
+# Gemfile lock file
+*.lock
